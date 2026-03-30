@@ -1,11 +1,11 @@
-# OSS-Audit-24BEY10136
+# OSS-Audit-24BAI10552
 Open Source Software Project — Git Analysis and Shell Scripts
 
 ## 👤 Student Details
 
-**Name:** Kriti Singh
+**Name:** Shruti Deshmukh
 
-**Registration Number:** 24BEY10136
+**Registration Number:** 24BAI10552
 
 ---
 
